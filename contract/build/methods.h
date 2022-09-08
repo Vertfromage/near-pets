@@ -1,0 +1,7 @@
+DEFINE_NEAR_METHOD(change_pet_name)
+DEFINE_NEAR_METHOD(get_beneficiary)
+DEFINE_NEAR_METHOD(get_pet_name)
+DEFINE_NEAR_METHOD(init)
+DEFINE_NEAR_METHOD(make_private)
+DEFINE_NEAR_METHOD(number_of_pets)
+DEFINE_NEAR_METHOD(set_pet_name)
