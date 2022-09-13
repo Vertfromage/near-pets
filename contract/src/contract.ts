@@ -51,6 +51,9 @@ class PetNames {
   @view
   number_of_pets() { return this.pets.length }
 
+  @view
+  get_all_pets() { return this.pets.toArray()}
+
 }
 
 const STORAGE_COST: bigint = BigInt("1000000000000000000000")
